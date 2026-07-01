@@ -1,0 +1,22 @@
+
+.movie-info {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.info {
+    margin: 30px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+
+    font-size: 15pt;
+    font-weight: 500;
+
+    margin: 20px
+}
